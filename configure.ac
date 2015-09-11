@@ -11,6 +11,7 @@ AC_CONFIG_FILES([Makefile
       		mx5/rotation/example1/Makefile
 		mx6/alphablending/example1/Makefile
                	mx6/alphablending/example2/Makefile
+               	mx6/alphablending/example3/Makefile
               	mx6/cropping/example1/Makefile
                 mx6/csc/example1/Makefile
                 mx6/deinterlacing/example1/Makefile

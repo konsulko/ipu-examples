@@ -4,6 +4,7 @@ all clean ipu-examples:
 @TARGET_MX5_TRUE@	cd mx5/rotation/example1 && $(MAKE) $@
 @TARGET_MX6_TRUE@	cd mx6/alphablending/example1 && $(MAKE) $@
 @TARGET_MX6_TRUE@	cd mx6/alphablending/example2 && $(MAKE) $@
+@TARGET_MX6_TRUE@	cd mx6/alphablending/example3 && $(MAKE) $@
 @TARGET_MX6_TRUE@	cd mx6/cropping/example1 && $(MAKE) $@
 @TARGET_MX6_TRUE@	cd mx6/csc/example1 && $(MAKE) $@
 @TARGET_MX6_TRUE@	cd mx6/deinterlacing/example1 && $(MAKE) $@
